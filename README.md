@@ -22,7 +22,7 @@ Contributing
 If you'd like to contribute to the development of these scripts, please submit a pull request or create an issue on the repository.
 
 License
-This collection of scripts is licensed under the MIT License. You're free to use, modify, and distribute the code as long as you include the original license and copyright notice.
+This collection of scripts is licensed under the GPL-3.0 License. You're free to use, modify, and distribute the code as long as you include the original license and copyright notice. Any modified or derivative versions of the code must also be released under the GPL-3.0 license.
 
 Credits
 This collection of scripts was built with the use of Cowsin's FPS engine and Emerald AI 3.0. Thanks to these developers for their contributions to the Unity community.
