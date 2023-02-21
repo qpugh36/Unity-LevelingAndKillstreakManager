@@ -26,4 +26,10 @@ License
 This collection of scripts is licensed under the GPL-3.0 License. You're free to use, modify, and distribute the code as long as you include the original license and copyright notice. Any modified or derivative versions of the code must also be released under the GPL-3.0 license.
 
 Credits
-This collection of scripts was built with the use of Cowsin's FPS engine and Emerald AI 3.0. Thanks to these developers for their contributions to the Unity community.
+This collection of scripts was built with the use of the following packages and tools:
+
+Cowsin's FPS engine
+Emerald AI 3.0
+LeanTween
+Text Mesh Pro
+Thank you to the creators of these packages and tools for their contributions to the Unity community.
