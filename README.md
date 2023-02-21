@@ -7,6 +7,7 @@ Clone or download the repository.
 Open your Unity project.
 Import the scripts into your project.
 Add the manager scripts to your game manager.
+
 Usage
 Once the scripts are installed, you can use them to add player progression and tracking features to your Unity game. The scripts include the following features:
 
